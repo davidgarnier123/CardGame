@@ -1,0 +1,2908 @@
+2 de pique / 3 de pique / 4 de pique / 5 de pique / 6 de pique / 7 de pique / 8 de pique / 9 de pique / 10 de pique / Valet de pique / Dame de pique / Roi de pique / As de pique / 2 de coeur / 3 de coeur / 4 de coeur / 5 de coeur / 6 de coeur / 7 de coeur / 8 de coeur / 9 de coeur / 10 de coeur / Valet de coeur / Dame de coeur / Roi de coeur / As de coeur / 2 de carreau / 3 de carreau / 4 de carreau / 5 de carreau / 6 de carreau / 7 de carreau / 8 de carreau / 9 de carreau / 10 de carreau / Valet de carreau / Dame de carreau / Roi de carreau / As de carreau / 2 de trefle / 3 de trefle / 4 de trefle / 5 de trefle / 6 de trefle / 7 de trefle / 8 de trefle / 9 de trefle / 10 de trefle / Valet de trefle / Dame de trefle / Roi de trefle / As de trefle / 52
+nombre de cartes par joueurs : 13
+Player 1
+[4 de carreau, 7 de carreau, 8 de trefle, 8 de coeur, 2 de coeur, Dame de pique, As de carreau, As de coeur, Valet de carreau, Dame de trefle, As de trefle, 2 de pique, 3 de carreau]
+Player 2
+[9 de coeur, 8 de carreau, 7 de coeur, 8 de pique, As de pique, 6 de carreau, 4 de coeur, 7 de trefle, Roi de carreau, 10 de coeur, 2 de trefle, 6 de pique, Roi de trefle]
+Player 3
+[Dame de coeur, 3 de pique, Dame de carreau, 6 de trefle, 5 de pique, 3 de coeur, 10 de trefle, 9 de trefle, 4 de pique, Roi de pique, 7 de pique, Roi de coeur, Valet de pique]
+Player 4
+[Valet de coeur, 3 de trefle, 9 de carreau, 4 de trefle, 5 de coeur, 6 de coeur, 2 de carreau, 10 de carreau, 10 de pique, 5 de trefle, 9 de pique, 5 de carreau, Valet de trefle]
+
+******** GAME START **********
+
+         Pli n°1
+******** DEBUT PLI ************
+Player 1 (13 cartes restantes) -> 2 de pique
+Player 2 (13 cartes restantes) -> 10 de coeur
+Player 3 (13 cartes restantes) -> Valet de pique
+Player 4 (13 cartes restantes) -> 4 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°2
+******** DEBUT PLI ************
+Player 1 (12 cartes restantes) -> 8 de coeur
+Player 2 (12 cartes restantes) -> 8 de pique
+Player 3 (16 cartes restantes) -> 4 de pique
+Player 4 (12 cartes restantes) -> 5 de carreau
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°3
+******** DEBUT PLI ************
+Player 1 (11 cartes restantes) -> As de carreau
+Player 2 (15 cartes restantes) -> 4 de pique
+Player 3 (15 cartes restantes) -> 6 de trefle
+Player 4 (11 cartes restantes) -> 10 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°4
+******** DEBUT PLI ************
+Player 1 (14 cartes restantes) -> Valet de carreau
+Player 2 (14 cartes restantes) -> 6 de pique
+Player 3 (14 cartes restantes) -> 4 de trefle
+Player 4 (10 cartes restantes) -> 9 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°5
+******** DEBUT PLI ************
+Player 1 (17 cartes restantes) -> 4 de pique
+Player 2 (13 cartes restantes) -> 5 de carreau
+Player 3 (13 cartes restantes) -> Valet de pique
+Player 4 (9 cartes restantes) -> Valet de coeur
+Event : Ajout de carte à Player 4
+********* FIN PLI *************
+                             
+         Pli n°6
+******** DEBUT PLI ************
+Player 1 (16 cartes restantes) -> Dame de trefle
+Player 2 (12 cartes restantes) -> As de pique
+Player 3 (12 cartes restantes) -> Dame de carreau
+Player 4 (12 cartes restantes) -> 10 de carreau
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°7
+******** DEBUT PLI ************
+Player 1 (15 cartes restantes) -> 6 de trefle
+Player 2 (15 cartes restantes) -> As de pique
+Player 3 (11 cartes restantes) -> 5 de pique
+Player 4 (11 cartes restantes) -> 4 de pique
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°8
+******** DEBUT PLI ************
+Player 1 (14 cartes restantes) -> 4 de trefle
+Player 2 (18 cartes restantes) -> As de pique
+Player 3 (10 cartes restantes) -> 10 de trefle
+Player 4 (10 cartes restantes) -> 9 de pique
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°9
+******** DEBUT PLI ************
+Player 1 (13 cartes restantes) -> 9 de carreau
+Player 2 (21 cartes restantes) -> 9 de pique
+Player 3 (9 cartes restantes) -> 3 de pique
+Player 4 (9 cartes restantes) -> 5 de trefle
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°10
+******** DEBUT PLI ************
+Player 1 (12 cartes restantes) -> As de coeur
+Player 2 (24 cartes restantes) -> 4 de coeur
+Player 3 (8 cartes restantes) -> 9 de trefle
+Player 4 (8 cartes restantes) -> Valet de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°11
+******** DEBUT PLI ************
+Player 1 (15 cartes restantes) -> 10 de pique
+Player 2 (23 cartes restantes) -> 9 de pique
+Player 3 (7 cartes restantes) -> 2 de pique
+Player 4 (7 cartes restantes) -> Valet de coeur
+Event : Ajout de carte à Player 4
+********* FIN PLI *************
+                             
+         Pli n°12
+******** DEBUT PLI ************
+Player 1 (14 cartes restantes) -> Valet de trefle
+Player 2 (22 cartes restantes) -> 6 de carreau
+Player 3 (6 cartes restantes) -> 7 de pique
+Player 4 (10 cartes restantes) -> Valet de coeur
+Event : Ajout de carte à Player 4
+********* FIN PLI *************
+                             
+         Pli n°13
+******** DEBUT PLI ************
+Player 1 (13 cartes restantes) -> 2 de coeur
+Player 2 (21 cartes restantes) -> 5 de pique
+Player 3 (5 cartes restantes) -> Dame de coeur
+Player 4 (13 cartes restantes) -> 6 de carreau
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°14
+******** DEBUT PLI ************
+Player 1 (12 cartes restantes) -> 3 de carreau
+Player 2 (20 cartes restantes) -> 2 de trefle
+Player 3 (8 cartes restantes) -> Roi de coeur
+Player 4 (12 cartes restantes) -> Valet de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°15
+******** DEBUT PLI ************
+Player 1 (11 cartes restantes) -> As de coeur
+Player 2 (19 cartes restantes) -> 10 de carreau
+Player 3 (11 cartes restantes) -> 3 de carreau
+Player 4 (11 cartes restantes) -> Valet de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°16
+******** DEBUT PLI ************
+Player 1 (14 cartes restantes) -> Dame de pique
+Player 2 (18 cartes restantes) -> 10 de trefle
+Player 3 (10 cartes restantes) -> 10 de coeur
+Player 4 (10 cartes restantes) -> 5 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°17
+******** DEBUT PLI ************
+Player 1 (17 cartes restantes) -> 3 de carreau
+Player 2 (17 cartes restantes) -> Dame de carreau
+Player 3 (9 cartes restantes) -> 2 de coeur
+Player 4 (9 cartes restantes) -> 9 de pique
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°18
+******** DEBUT PLI ************
+Player 1 (16 cartes restantes) -> 4 de coeur
+Player 2 (20 cartes restantes) -> 6 de trefle
+Player 3 (8 cartes restantes) -> Roi de coeur
+Player 4 (8 cartes restantes) -> 7 de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°19
+******** DEBUT PLI ************
+Player 1 (15 cartes restantes) -> Valet de carreau
+Player 2 (19 cartes restantes) -> 7 de trefle
+Player 3 (11 cartes restantes) -> 7 de pique
+Player 4 (7 cartes restantes) -> Valet de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°20
+******** DEBUT PLI ************
+Player 1 (18 cartes restantes) -> 7 de carreau
+Player 2 (18 cartes restantes) -> Roi de carreau
+Player 3 (10 cartes restantes) -> 5 de pique
+Player 4 (6 cartes restantes) -> 3 de trefle
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°21
+******** DEBUT PLI ************
+Player 1 (17 cartes restantes) -> 6 de pique
+Player 2 (21 cartes restantes) -> Dame de carreau
+Player 3 (9 cartes restantes) -> Valet de pique
+Player 4 (5 cartes restantes) -> 10 de pique
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°22
+******** DEBUT PLI ************
+Player 1 (16 cartes restantes) -> As de trefle
+Player 2 (24 cartes restantes) -> 8 de pique
+Player 3 (8 cartes restantes) -> Dame de coeur
+Player 4 (4 cartes restantes) -> 2 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°23
+******** DEBUT PLI ************
+Player 1 (19 cartes restantes) -> 4 de carreau
+Player 2 (23 cartes restantes) -> 9 de carreau
+Player 3 (7 cartes restantes) -> 4 de coeur
+Player 4 (3 cartes restantes) -> 2 de carreau
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°24
+******** DEBUT PLI ************
+Player 1 (18 cartes restantes) -> Dame de pique
+Player 2 (26 cartes restantes) -> 9 de pique
+Player 3 (6 cartes restantes) -> Roi de coeur
+Player 4 (2 cartes restantes) -> 6 de coeur
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°25
+******** DEBUT PLI ************
+Player 1 (17 cartes restantes) -> 2 de pique
+Player 2 (25 cartes restantes) -> 8 de carreau
+Player 3 (9 cartes restantes) -> Dame de pique
+Player 4 (1 cartes restantes) -> 5 de coeur
+Event : Ajout de carte à Player 3
+Event : Player 4 éliminé !
+********* FIN PLI *************
+                             
+         Pli n°26
+******** DEBUT PLI ************
+Player 1 (16 cartes restantes) -> Valet de coeur
+Player 2 (24 cartes restantes) -> 2 de carreau
+Player 3 (12 cartes restantes) -> 9 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°27
+******** DEBUT PLI ************
+Player 1 (18 cartes restantes) -> 10 de carreau
+Player 2 (23 cartes restantes) -> 5 de trefle
+Player 3 (11 cartes restantes) -> 6 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°28
+******** DEBUT PLI ************
+Player 1 (20 cartes restantes) -> Dame de coeur
+Player 2 (22 cartes restantes) -> Dame de trefle
+Player 3 (10 cartes restantes) -> Dame de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°29
+******** DEBUT PLI ************
+Player 1 (22 cartes restantes) -> 10 de coeur
+Player 2 (21 cartes restantes) -> 3 de pique
+Player 3 (9 cartes restantes) -> 6 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°30
+******** DEBUT PLI ************
+Player 1 (24 cartes restantes) -> 7 de trefle
+Player 2 (20 cartes restantes) -> 5 de pique
+Player 3 (8 cartes restantes) -> 3 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°31
+******** DEBUT PLI ************
+Player 1 (26 cartes restantes) -> 5 de carreau
+Player 2 (19 cartes restantes) -> As de pique
+Player 3 (7 cartes restantes) -> Roi de coeur
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°32
+******** DEBUT PLI ************
+Player 1 (25 cartes restantes) -> 3 de coeur
+Player 2 (21 cartes restantes) -> 10 de pique
+Player 3 (6 cartes restantes) -> 5 de coeur
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°33
+******** DEBUT PLI ************
+Player 1 (24 cartes restantes) -> 5 de trefle
+Player 2 (23 cartes restantes) -> 10 de pique
+Player 3 (5 cartes restantes) -> 2 de pique
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°34
+******** DEBUT PLI ************
+Player 1 (23 cartes restantes) -> 7 de trefle
+Player 2 (25 cartes restantes) -> As de pique
+Player 3 (4 cartes restantes) -> 6 de carreau
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°35
+******** DEBUT PLI ************
+Player 1 (22 cartes restantes) -> 5 de pique
+Player 2 (27 cartes restantes) -> 4 de trefle
+Player 3 (3 cartes restantes) -> Roi de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°36
+******** DEBUT PLI ************
+Player 1 (21 cartes restantes) -> 8 de pique
+Player 2 (26 cartes restantes) -> 5 de trefle
+Player 3 (5 cartes restantes) -> 4 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°37
+******** DEBUT PLI ************
+Player 1 (23 cartes restantes) -> 6 de trefle
+Player 2 (25 cartes restantes) -> 9 de coeur
+Player 3 (4 cartes restantes) -> Roi de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°38
+******** DEBUT PLI ************
+Player 1 (22 cartes restantes) -> 8 de trefle
+Player 2 (24 cartes restantes) -> 2 de coeur
+Player 3 (6 cartes restantes) -> 2 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°39
+******** DEBUT PLI ************
+Player 1 (24 cartes restantes) -> Dame de pique
+Player 2 (23 cartes restantes) -> 8 de coeur
+Player 3 (5 cartes restantes) -> 8 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°40
+******** DEBUT PLI ************
+Player 1 (26 cartes restantes) -> 7 de pique
+Player 2 (22 cartes restantes) -> 5 de coeur
+Player 3 (4 cartes restantes) -> Roi de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°41
+******** DEBUT PLI ************
+Player 1 (25 cartes restantes) -> 10 de carreau
+Player 2 (21 cartes restantes) -> 7 de carreau
+Player 3 (6 cartes restantes) -> 7 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°42
+******** DEBUT PLI ************
+Player 1 (27 cartes restantes) -> Valet de trefle
+Player 2 (20 cartes restantes) -> 3 de trefle
+Player 3 (5 cartes restantes) -> 5 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°43
+******** DEBUT PLI ************
+Player 1 (29 cartes restantes) -> 10 de coeur
+Player 2 (19 cartes restantes) -> Valet de pique
+Player 3 (4 cartes restantes) -> 5 de coeur
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°44
+******** DEBUT PLI ************
+Player 1 (28 cartes restantes) -> 9 de trefle
+Player 2 (21 cartes restantes) -> 7 de trefle
+Player 3 (3 cartes restantes) -> Roi de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°45
+******** DEBUT PLI ************
+Player 1 (27 cartes restantes) -> 10 de carreau
+Player 2 (20 cartes restantes) -> 6 de pique
+Player 3 (5 cartes restantes) -> 7 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°46
+******** DEBUT PLI ************
+Player 1 (29 cartes restantes) -> Dame de trefle
+Player 2 (19 cartes restantes) -> 2 de pique
+Player 3 (4 cartes restantes) -> 6 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°47
+******** DEBUT PLI ************
+Player 1 (31 cartes restantes) -> Valet de coeur
+Player 2 (18 cartes restantes) -> 10 de coeur
+Player 3 (3 cartes restantes) -> Roi de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°48
+******** DEBUT PLI ************
+Player 1 (30 cartes restantes) -> 5 de trefle
+Player 2 (17 cartes restantes) -> 5 de coeur
+Player 3 (5 cartes restantes) -> 9 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°49
+******** DEBUT PLI ************
+Player 1 (29 cartes restantes) -> 6 de trefle
+Player 2 (16 cartes restantes) -> Valet de pique
+Player 3 (7 cartes restantes) -> 9 de trefle
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°50
+******** DEBUT PLI ************
+Player 1 (28 cartes restantes) -> Dame de trefle
+Player 2 (18 cartes restantes) -> 3 de coeur
+Player 3 (6 cartes restantes) -> 5 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°51
+******** DEBUT PLI ************
+Player 1 (30 cartes restantes) -> 2 de coeur
+Player 2 (17 cartes restantes) -> 9 de carreau
+Player 3 (5 cartes restantes) -> 9 de coeur
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°52
+******** DEBUT PLI ************
+Player 1 (29 cartes restantes) -> 8 de coeur
+Player 2 (19 cartes restantes) -> 5 de carreau
+Player 3 (4 cartes restantes) -> 5 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°53
+******** DEBUT PLI ************
+Player 1 (31 cartes restantes) -> Dame de coeur
+Player 2 (18 cartes restantes) -> As de pique
+Player 3 (3 cartes restantes) -> 10 de coeur
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°54
+******** DEBUT PLI ************
+Player 1 (30 cartes restantes) -> 2 de pique
+Player 2 (20 cartes restantes) -> 9 de coeur
+Player 3 (2 cartes restantes) -> Valet de coeur
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°55
+******** DEBUT PLI ************
+Player 1 (29 cartes restantes) -> Dame de pique
+Player 2 (19 cartes restantes) -> 4 de carreau
+Player 3 (4 cartes restantes) -> 9 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°56
+******** DEBUT PLI ************
+Player 1 (31 cartes restantes) -> As de carreau
+Player 2 (18 cartes restantes) -> As de pique
+Player 3 (3 cartes restantes) -> 2 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°57
+******** DEBUT PLI ************
+Player 1 (33 cartes restantes) -> 7 de pique
+Player 2 (17 cartes restantes) -> Roi de carreau
+Player 3 (2 cartes restantes) -> Valet de coeur
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°58
+******** DEBUT PLI ************
+Player 1 (32 cartes restantes) -> 9 de pique
+Player 2 (19 cartes restantes) -> Roi de coeur
+Player 3 (1 cartes restantes) -> Roi de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°59
+******** DEBUT PLI ************
+Player 1 (31 cartes restantes) -> Valet de carreau
+Player 2 (18 cartes restantes) -> Dame de coeur
+Player 3 (3 cartes restantes) -> 9 de pique
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°60
+******** DEBUT PLI ************
+Player 1 (30 cartes restantes) -> 6 de coeur
+Player 2 (20 cartes restantes) -> Dame de carreau
+Player 3 (2 cartes restantes) -> Roi de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°61
+******** DEBUT PLI ************
+Player 1 (29 cartes restantes) -> 8 de coeur
+Player 2 (19 cartes restantes) -> 7 de pique
+Player 3 (4 cartes restantes) -> Roi de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°62
+******** DEBUT PLI ************
+Player 1 (28 cartes restantes) -> 4 de trefle
+Player 2 (18 cartes restantes) -> 2 de coeur
+Player 3 (6 cartes restantes) -> 7 de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°63
+******** DEBUT PLI ************
+Player 1 (27 cartes restantes) -> 5 de trefle
+Player 2 (17 cartes restantes) -> 9 de carreau
+Player 3 (8 cartes restantes) -> 7 de pique
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°64
+******** DEBUT PLI ************
+Player 1 (26 cartes restantes) -> 8 de carreau
+Player 2 (19 cartes restantes) -> Valet de carreau
+Player 3 (7 cartes restantes) -> 2 de coeur
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°65
+******** DEBUT PLI ************
+Player 1 (25 cartes restantes) -> As de trefle
+Player 2 (21 cartes restantes) -> 8 de carreau
+Player 3 (6 cartes restantes) -> 8 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°66
+******** DEBUT PLI ************
+Player 1 (27 cartes restantes) -> 3 de trefle
+Player 2 (20 cartes restantes) -> 9 de carreau
+Player 3 (5 cartes restantes) -> Dame de carreau
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°67
+******** DEBUT PLI ************
+Player 1 (26 cartes restantes) -> 10 de trefle
+Player 2 (19 cartes restantes) -> 10 de pique
+Player 3 (7 cartes restantes) -> 9 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°68
+******** DEBUT PLI ************
+Player 1 (28 cartes restantes) -> 9 de coeur
+Player 2 (18 cartes restantes) -> 9 de trefle
+Player 3 (6 cartes restantes) -> 3 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°69
+******** DEBUT PLI ************
+Player 1 (30 cartes restantes) -> 9 de coeur
+Player 2 (17 cartes restantes) -> Valet de pique
+Player 3 (5 cartes restantes) -> Roi de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°70
+******** DEBUT PLI ************
+Player 1 (29 cartes restantes) -> 8 de coeur
+Player 2 (16 cartes restantes) -> 2 de coeur
+Player 3 (7 cartes restantes) -> Roi de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°71
+******** DEBUT PLI ************
+Player 1 (28 cartes restantes) -> Dame de trefle
+Player 2 (15 cartes restantes) -> 5 de trefle
+Player 3 (9 cartes restantes) -> Valet de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°72
+******** DEBUT PLI ************
+Player 1 (30 cartes restantes) -> 3 de pique
+Player 2 (14 cartes restantes) -> 4 de coeur
+Player 3 (8 cartes restantes) -> 9 de coeur
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°73
+******** DEBUT PLI ************
+Player 1 (29 cartes restantes) -> As de trefle
+Player 2 (13 cartes restantes) -> Dame de coeur
+Player 3 (10 cartes restantes) -> 2 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°74
+******** DEBUT PLI ************
+Player 1 (31 cartes restantes) -> 9 de carreau
+Player 2 (12 cartes restantes) -> Roi de trefle
+Player 3 (9 cartes restantes) -> 3 de pique
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°75
+******** DEBUT PLI ************
+Player 1 (30 cartes restantes) -> 10 de trefle
+Player 2 (14 cartes restantes) -> 4 de pique
+Player 3 (8 cartes restantes) -> 9 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°76
+******** DEBUT PLI ************
+Player 1 (32 cartes restantes) -> Valet de pique
+Player 2 (13 cartes restantes) -> 7 de coeur
+Player 3 (7 cartes restantes) -> 4 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°77
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> 2 de trefle
+Player 2 (12 cartes restantes) -> 6 de carreau
+Player 3 (6 cartes restantes) -> 4 de trefle
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°78
+******** DEBUT PLI ************
+Player 1 (33 cartes restantes) -> 9 de trefle
+Player 2 (14 cartes restantes) -> 6 de trefle
+Player 3 (5 cartes restantes) -> 6 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°79
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> 10 de trefle
+Player 2 (13 cartes restantes) -> 3 de pique
+Player 3 (4 cartes restantes) -> Roi de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°80
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> 4 de carreau
+Player 2 (12 cartes restantes) -> 4 de trefle
+Player 3 (6 cartes restantes) -> Roi de coeur
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°81
+******** DEBUT PLI ************
+Player 1 (33 cartes restantes) -> 4 de coeur
+Player 2 (11 cartes restantes) -> 2 de trefle
+Player 3 (8 cartes restantes) -> Roi de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°82
+******** DEBUT PLI ************
+Player 1 (32 cartes restantes) -> As de pique
+Player 2 (10 cartes restantes) -> 7 de pique
+Player 3 (10 cartes restantes) -> Roi de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°83
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> 7 de coeur
+Player 2 (9 cartes restantes) -> Roi de carreau
+Player 3 (9 cartes restantes) -> 4 de coeur
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°84
+******** DEBUT PLI ************
+Player 1 (33 cartes restantes) -> 10 de carreau
+Player 2 (11 cartes restantes) -> 6 de carreau
+Player 3 (8 cartes restantes) -> Dame de carreau
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°85
+******** DEBUT PLI ************
+Player 1 (32 cartes restantes) -> Roi de coeur
+Player 2 (10 cartes restantes) -> 9 de pique
+Player 3 (10 cartes restantes) -> 8 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°86
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> Dame de trefle
+Player 2 (9 cartes restantes) -> 10 de coeur
+Player 3 (9 cartes restantes) -> 3 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°87
+******** DEBUT PLI ************
+Player 1 (36 cartes restantes) -> 2 de coeur
+Player 2 (8 cartes restantes) -> Valet de carreau
+Player 3 (8 cartes restantes) -> 10 de carreau
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°88
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> 6 de pique
+Player 2 (10 cartes restantes) -> 9 de carreau
+Player 3 (7 cartes restantes) -> 4 de carreau
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°89
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> Dame de pique
+Player 2 (12 cartes restantes) -> 9 de carreau
+Player 3 (6 cartes restantes) -> 2 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°90
+******** DEBUT PLI ************
+Player 1 (36 cartes restantes) -> 5 de coeur
+Player 2 (11 cartes restantes) -> Valet de coeur
+Player 3 (5 cartes restantes) -> 6 de carreau
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°91
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> 5 de pique
+Player 2 (13 cartes restantes) -> 6 de carreau
+Player 3 (4 cartes restantes) -> 10 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°92
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> 4 de pique
+Player 2 (12 cartes restantes) -> 2 de coeur
+Player 3 (6 cartes restantes) -> Roi de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°93
+******** DEBUT PLI ************
+Player 1 (33 cartes restantes) -> 5 de trefle
+Player 2 (11 cartes restantes) -> Valet de carreau
+Player 3 (8 cartes restantes) -> 10 de trefle
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°94
+******** DEBUT PLI ************
+Player 1 (32 cartes restantes) -> Dame de pique
+Player 2 (13 cartes restantes) -> 10 de trefle
+Player 3 (7 cartes restantes) -> 4 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°95
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> 3 de pique
+Player 2 (12 cartes restantes) -> Valet de coeur
+Player 3 (6 cartes restantes) -> Roi de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°96
+******** DEBUT PLI ************
+Player 1 (33 cartes restantes) -> As de carreau
+Player 2 (11 cartes restantes) -> 6 de pique
+Player 3 (8 cartes restantes) -> 2 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°97
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> Valet de pique
+Player 2 (10 cartes restantes) -> 5 de coeur
+Player 3 (7 cartes restantes) -> Valet de coeur
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°98
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> As de trefle
+Player 2 (9 cartes restantes) -> 4 de carreau
+Player 3 (9 cartes restantes) -> 5 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°99
+******** DEBUT PLI ************
+Player 1 (36 cartes restantes) -> 8 de pique
+Player 2 (8 cartes restantes) -> Roi de carreau
+Player 3 (8 cartes restantes) -> Dame de carreau
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°100
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> 7 de pique
+Player 2 (10 cartes restantes) -> 3 de carreau
+Player 3 (7 cartes restantes) -> 6 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°101
+******** DEBUT PLI ************
+Player 1 (37 cartes restantes) -> 5 de carreau
+Player 2 (9 cartes restantes) -> Roi de carreau
+Player 3 (6 cartes restantes) -> Valet de pique
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°102
+******** DEBUT PLI ************
+Player 1 (36 cartes restantes) -> 6 de trefle
+Player 2 (11 cartes restantes) -> Roi de trefle
+Player 3 (5 cartes restantes) -> 3 de pique
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°103
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> 6 de carreau
+Player 2 (13 cartes restantes) -> Valet de pique
+Player 3 (4 cartes restantes) -> Roi de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°104
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> 10 de coeur
+Player 2 (12 cartes restantes) -> Roi de trefle
+Player 3 (6 cartes restantes) -> 4 de trefle
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°105
+******** DEBUT PLI ************
+Player 1 (33 cartes restantes) -> 8 de carreau
+Player 2 (14 cartes restantes) -> 4 de trefle
+Player 3 (5 cartes restantes) -> Roi de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°106
+******** DEBUT PLI ************
+Player 1 (32 cartes restantes) -> As de coeur
+Player 2 (13 cartes restantes) -> Dame de carreau
+Player 3 (7 cartes restantes) -> 5 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°107
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> Dame de trefle
+Player 2 (12 cartes restantes) -> 7 de coeur
+Player 3 (6 cartes restantes) -> Valet de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°108
+******** DEBUT PLI ************
+Player 1 (36 cartes restantes) -> 3 de coeur
+Player 2 (11 cartes restantes) -> 4 de coeur
+Player 3 (5 cartes restantes) -> 8 de carreau
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°109
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> 10 de pique
+Player 2 (10 cartes restantes) -> Roi de trefle
+Player 3 (7 cartes restantes) -> 6 de carreau
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°110
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> As de pique
+Player 2 (12 cartes restantes) -> 6 de trefle
+Player 3 (6 cartes restantes) -> 4 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°111
+******** DEBUT PLI ************
+Player 1 (36 cartes restantes) -> 6 de trefle
+Player 2 (11 cartes restantes) -> 10 de coeur
+Player 3 (5 cartes restantes) -> Valet de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°112
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> 2 de carreau
+Player 2 (10 cartes restantes) -> 6 de carreau
+Player 3 (7 cartes restantes) -> Roi de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°113
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> As de pique
+Player 2 (9 cartes restantes) -> 5 de trefle
+Player 3 (9 cartes restantes) -> 6 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°114
+******** DEBUT PLI ************
+Player 1 (36 cartes restantes) -> 3 de carreau
+Player 2 (8 cartes restantes) -> Valet de carreau
+Player 3 (8 cartes restantes) -> Roi de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°115
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> 5 de trefle
+Player 2 (7 cartes restantes) -> 10 de carreau
+Player 3 (10 cartes restantes) -> 3 de carreau
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°116
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> 4 de carreau
+Player 2 (9 cartes restantes) -> 10 de carreau
+Player 3 (9 cartes restantes) -> Roi de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°117
+******** DEBUT PLI ************
+Player 1 (33 cartes restantes) -> Dame de trefle
+Player 2 (8 cartes restantes) -> 10 de pique
+Player 3 (11 cartes restantes) -> 2 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°118
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> 8 de trefle
+Player 2 (7 cartes restantes) -> Roi de carreau
+Player 3 (10 cartes restantes) -> 4 de carreau
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°119
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> Dame de carreau
+Player 2 (9 cartes restantes) -> Roi de trefle
+Player 3 (9 cartes restantes) -> Valet de pique
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°120
+******** DEBUT PLI ************
+Player 1 (33 cartes restantes) -> Valet de trefle
+Player 2 (11 cartes restantes) -> Dame de carreau
+Player 3 (8 cartes restantes) -> Valet de carreau
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°121
+******** DEBUT PLI ************
+Player 1 (32 cartes restantes) -> 9 de carreau
+Player 2 (13 cartes restantes) -> 5 de trefle
+Player 3 (7 cartes restantes) -> Roi de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°122
+******** DEBUT PLI ************
+Player 1 (31 cartes restantes) -> 6 de coeur
+Player 2 (12 cartes restantes) -> Roi de trefle
+Player 3 (9 cartes restantes) -> 8 de carreau
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°123
+******** DEBUT PLI ************
+Player 1 (30 cartes restantes) -> As de trefle
+Player 2 (14 cartes restantes) -> Valet de carreau
+Player 3 (8 cartes restantes) -> 6 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°124
+******** DEBUT PLI ************
+Player 1 (32 cartes restantes) -> 4 de trefle
+Player 2 (13 cartes restantes) -> Valet de trefle
+Player 3 (7 cartes restantes) -> 10 de coeur
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°125
+******** DEBUT PLI ************
+Player 1 (31 cartes restantes) -> Dame de pique
+Player 2 (15 cartes restantes) -> 3 de carreau
+Player 3 (6 cartes restantes) -> 10 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°126
+******** DEBUT PLI ************
+Player 1 (33 cartes restantes) -> Valet de coeur
+Player 2 (14 cartes restantes) -> Valet de trefle
+Player 3 (5 cartes restantes) -> 3 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°127
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> 10 de pique
+Player 2 (13 cartes restantes) -> 10 de coeur
+Player 3 (4 cartes restantes) -> 4 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°128
+******** DEBUT PLI ************
+Player 1 (37 cartes restantes) -> Valet de coeur
+Player 2 (12 cartes restantes) -> 8 de trefle
+Player 3 (3 cartes restantes) -> 9 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°129
+******** DEBUT PLI ************
+Player 1 (39 cartes restantes) -> 10 de pique
+Player 2 (11 cartes restantes) -> 6 de coeur
+Player 3 (2 cartes restantes) -> Roi de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°130
+******** DEBUT PLI ************
+Player 1 (38 cartes restantes) -> Roi de coeur
+Player 2 (10 cartes restantes) -> Roi de trefle
+Player 3 (4 cartes restantes) -> 5 de trefle
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°131
+******** DEBUT PLI ************
+Player 1 (37 cartes restantes) -> 10 de trefle
+Player 2 (12 cartes restantes) -> Dame de carreau
+Player 3 (3 cartes restantes) -> Roi de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°132
+******** DEBUT PLI ************
+Player 1 (36 cartes restantes) -> 8 de trefle
+Player 2 (11 cartes restantes) -> 8 de pique
+Player 3 (5 cartes restantes) -> 10 de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°133
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> Dame de pique
+Player 2 (10 cartes restantes) -> 5 de trefle
+Player 3 (7 cartes restantes) -> 10 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°134
+******** DEBUT PLI ************
+Player 1 (37 cartes restantes) -> 2 de carreau
+Player 2 (9 cartes restantes) -> 4 de carreau
+Player 3 (6 cartes restantes) -> Dame de carreau
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°135
+******** DEBUT PLI ************
+Player 1 (36 cartes restantes) -> 5 de coeur
+Player 2 (8 cartes restantes) -> 3 de pique
+Player 3 (8 cartes restantes) -> Roi de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°136
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> 10 de coeur
+Player 2 (7 cartes restantes) -> 5 de carreau
+Player 3 (10 cartes restantes) -> 5 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°137
+******** DEBUT PLI ************
+Player 1 (37 cartes restantes) -> 7 de carreau
+Player 2 (6 cartes restantes) -> Roi de trefle
+Player 3 (9 cartes restantes) -> Dame de carreau
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°138
+******** DEBUT PLI ************
+Player 1 (36 cartes restantes) -> 2 de pique
+Player 2 (8 cartes restantes) -> Dame de carreau
+Player 3 (8 cartes restantes) -> 6 de coeur
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°139
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> 7 de coeur
+Player 2 (10 cartes restantes) -> Roi de trefle
+Player 3 (7 cartes restantes) -> 2 de carreau
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°140
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> 3 de coeur
+Player 2 (12 cartes restantes) -> 2 de carreau
+Player 3 (6 cartes restantes) -> 3 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°141
+******** DEBUT PLI ************
+Player 1 (36 cartes restantes) -> Valet de coeur
+Player 2 (11 cartes restantes) -> 8 de carreau
+Player 3 (5 cartes restantes) -> 8 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°142
+******** DEBUT PLI ************
+Player 1 (38 cartes restantes) -> As de coeur
+Player 2 (10 cartes restantes) -> Roi de trefle
+Player 3 (4 cartes restantes) -> 4 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°143
+******** DEBUT PLI ************
+Player 1 (40 cartes restantes) -> 6 de trefle
+Player 2 (9 cartes restantes) -> 2 de pique
+Player 3 (3 cartes restantes) -> 10 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°144
+******** DEBUT PLI ************
+Player 1 (39 cartes restantes) -> 4 de pique
+Player 2 (8 cartes restantes) -> 4 de trefle
+Player 3 (5 cartes restantes) -> 6 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°145
+******** DEBUT PLI ************
+Player 1 (38 cartes restantes) -> 2 de trefle
+Player 2 (7 cartes restantes) -> Valet de pique
+Player 3 (7 cartes restantes) -> 6 de trefle
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°146
+******** DEBUT PLI ************
+Player 1 (37 cartes restantes) -> Valet de carreau
+Player 2 (9 cartes restantes) -> 6 de coeur
+Player 3 (6 cartes restantes) -> 4 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°147
+******** DEBUT PLI ************
+Player 1 (39 cartes restantes) -> 3 de trefle
+Player 2 (8 cartes restantes) -> 7 de carreau
+Player 3 (5 cartes restantes) -> 4 de pique
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°148
+******** DEBUT PLI ************
+Player 1 (38 cartes restantes) -> Valet de carreau
+Player 2 (10 cartes restantes) -> 7 de carreau
+Player 3 (4 cartes restantes) -> 8 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°149
+******** DEBUT PLI ************
+Player 1 (40 cartes restantes) -> 7 de carreau
+Player 2 (9 cartes restantes) -> 6 de trefle
+Player 3 (3 cartes restantes) -> 10 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°150
+******** DEBUT PLI ************
+Player 1 (39 cartes restantes) -> 3 de carreau
+Player 2 (8 cartes restantes) -> 2 de trefle
+Player 3 (5 cartes restantes) -> 6 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°151
+******** DEBUT PLI ************
+Player 1 (38 cartes restantes) -> 4 de trefle
+Player 2 (7 cartes restantes) -> 7 de coeur
+Player 3 (7 cartes restantes) -> 3 de carreau
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°152
+******** DEBUT PLI ************
+Player 1 (37 cartes restantes) -> 9 de trefle
+Player 2 (9 cartes restantes) -> 3 de trefle
+Player 3 (6 cartes restantes) -> 10 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°153
+******** DEBUT PLI ************
+Player 1 (36 cartes restantes) -> 6 de pique
+Player 2 (8 cartes restantes) -> Roi de coeur
+Player 3 (8 cartes restantes) -> Roi de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°154
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> 4 de coeur
+Player 2 (7 cartes restantes) -> Dame de carreau
+Player 3 (10 cartes restantes) -> 7 de carreau
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°155
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> 2 de coeur
+Player 2 (9 cartes restantes) -> 3 de carreau
+Player 3 (9 cartes restantes) -> 10 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°156
+******** DEBUT PLI ************
+Player 1 (33 cartes restantes) -> Dame de coeur
+Player 2 (8 cartes restantes) -> 7 de coeur
+Player 3 (11 cartes restantes) -> Roi de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°157
+******** DEBUT PLI ************
+Player 1 (32 cartes restantes) -> 10 de coeur
+Player 2 (7 cartes restantes) -> 7 de carreau
+Player 3 (13 cartes restantes) -> 2 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°158
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> As de pique
+Player 2 (6 cartes restantes) -> Roi de carreau
+Player 3 (12 cartes restantes) -> 2 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°159
+******** DEBUT PLI ************
+Player 1 (36 cartes restantes) -> 8 de pique
+Player 2 (5 cartes restantes) -> 4 de pique
+Player 3 (11 cartes restantes) -> Dame de coeur
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°160
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> 2 de trefle
+Player 2 (4 cartes restantes) -> 4 de coeur
+Player 3 (13 cartes restantes) -> 3 de carreau
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°161
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> 2 de carreau
+Player 2 (6 cartes restantes) -> Dame de carreau
+Player 3 (12 cartes restantes) -> 6 de trefle
+Event : Ajout de carte à Player 2
+********* FIN PLI *************
+                             
+         Pli n°162
+******** DEBUT PLI ************
+Player 1 (33 cartes restantes) -> 10 de carreau
+Player 2 (8 cartes restantes) -> Dame de carreau
+Player 3 (11 cartes restantes) -> Roi de coeur
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°163
+******** DEBUT PLI ************
+Player 1 (32 cartes restantes) -> Valet de trefle
+Player 2 (7 cartes restantes) -> Valet de pique
+Player 3 (13 cartes restantes) -> 10 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°164
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> Valet de coeur
+Player 2 (6 cartes restantes) -> 2 de trefle
+Player 3 (12 cartes restantes) -> 4 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°165
+******** DEBUT PLI ************
+Player 1 (36 cartes restantes) -> Dame de trefle
+Player 2 (5 cartes restantes) -> 4 de trefle
+Player 3 (11 cartes restantes) -> Dame de carreau
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°166
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> 8 de trefle
+Player 2 (4 cartes restantes) -> 3 de carreau
+Player 3 (13 cartes restantes) -> Dame de coeur
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°167
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> 10 de trefle
+Player 2 (3 cartes restantes) -> 2 de carreau
+Player 3 (15 cartes restantes) -> Roi de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°168
+******** DEBUT PLI ************
+Player 1 (33 cartes restantes) -> 4 de pique
+Player 2 (2 cartes restantes) -> 4 de coeur
+Player 3 (17 cartes restantes) -> Dame de coeur
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°169
+******** DEBUT PLI ************
+Player 1 (32 cartes restantes) -> As de pique
+Player 2 (1 cartes restantes) -> 6 de trefle
+Player 3 (19 cartes restantes) -> 2 de carreau
+Event : Ajout de carte à Player 1
+Event : Player 2 éliminé !
+********* FIN PLI *************
+                             
+         Pli n°170
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> 5 de coeur
+Player 3 (18 cartes restantes) -> 9 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°171
+******** DEBUT PLI ************
+Player 1 (33 cartes restantes) -> 5 de carreau
+Player 3 (19 cartes restantes) -> 4 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°172
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> 7 de trefle
+Player 3 (18 cartes restantes) -> 7 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°173
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> 6 de trefle
+Player 3 (17 cartes restantes) -> 3 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°174
+******** DEBUT PLI ************
+Player 1 (36 cartes restantes) -> Roi de carreau
+Player 3 (16 cartes restantes) -> Dame de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°175
+******** DEBUT PLI ************
+Player 1 (37 cartes restantes) -> 9 de pique
+Player 3 (15 cartes restantes) -> 4 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°176
+******** DEBUT PLI ************
+Player 1 (38 cartes restantes) -> 4 de carreau
+Player 3 (14 cartes restantes) -> 3 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°177
+******** DEBUT PLI ************
+Player 1 (39 cartes restantes) -> 5 de pique
+Player 3 (13 cartes restantes) -> 10 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°178
+******** DEBUT PLI ************
+Player 1 (38 cartes restantes) -> 6 de coeur
+Player 3 (14 cartes restantes) -> 4 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°179
+******** DEBUT PLI ************
+Player 1 (39 cartes restantes) -> As de trefle
+Player 3 (13 cartes restantes) -> 2 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°180
+******** DEBUT PLI ************
+Player 1 (40 cartes restantes) -> As de carreau
+Player 3 (12 cartes restantes) -> Dame de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°181
+******** DEBUT PLI ************
+Player 1 (41 cartes restantes) -> Valet de carreau
+Player 3 (11 cartes restantes) -> Roi de coeur
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°182
+******** DEBUT PLI ************
+Player 1 (40 cartes restantes) -> 2 de carreau
+Player 3 (12 cartes restantes) -> 10 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°183
+******** DEBUT PLI ************
+Player 1 (39 cartes restantes) -> 7 de pique
+Player 3 (13 cartes restantes) -> 10 de carreau
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°184
+******** DEBUT PLI ************
+Player 1 (38 cartes restantes) -> 7 de coeur
+Player 3 (14 cartes restantes) -> 2 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°185
+******** DEBUT PLI ************
+Player 1 (39 cartes restantes) -> 2 de pique
+Player 3 (13 cartes restantes) -> 10 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°186
+******** DEBUT PLI ************
+Player 1 (38 cartes restantes) -> 4 de trefle
+Player 3 (14 cartes restantes) -> Roi de coeur
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°187
+******** DEBUT PLI ************
+Player 1 (37 cartes restantes) -> 7 de trefle
+Player 3 (15 cartes restantes) -> 10 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°188
+******** DEBUT PLI ************
+Player 1 (36 cartes restantes) -> 8 de coeur
+Player 3 (16 cartes restantes) -> Roi de coeur
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°189
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> 4 de carreau
+Player 3 (17 cartes restantes) -> 8 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°190
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> 2 de carreau
+Player 3 (18 cartes restantes) -> 4 de carreau
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°191
+******** DEBUT PLI ************
+Player 1 (33 cartes restantes) -> 10 de pique
+Player 3 (19 cartes restantes) -> 5 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°192
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> Dame de trefle
+Player 3 (18 cartes restantes) -> 4 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°193
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> 5 de carreau
+Player 3 (17 cartes restantes) -> Dame de carreau
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°194
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> 3 de trefle
+Player 3 (18 cartes restantes) -> 8 de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°195
+******** DEBUT PLI ************
+Player 1 (33 cartes restantes) -> Dame de trefle
+Player 3 (19 cartes restantes) -> Roi de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°196
+******** DEBUT PLI ************
+Player 1 (32 cartes restantes) -> As de coeur
+Player 3 (20 cartes restantes) -> 8 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°197
+******** DEBUT PLI ************
+Player 1 (33 cartes restantes) -> Roi de trefle
+Player 3 (19 cartes restantes) -> Dame de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°198
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> 9 de coeur
+Player 3 (18 cartes restantes) -> 5 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°199
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> 2 de trefle
+Player 3 (17 cartes restantes) -> 8 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°200
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> Dame de coeur
+Player 3 (18 cartes restantes) -> 7 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°201
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> 4 de pique
+Player 3 (17 cartes restantes) -> 8 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°202
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> 4 de carreau
+Player 3 (18 cartes restantes) -> Roi de coeur
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°203
+******** DEBUT PLI ************
+Player 1 (33 cartes restantes) -> 8 de coeur
+Player 3 (19 cartes restantes) -> 8 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°204
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> Valet de coeur
+Player 3 (18 cartes restantes) -> Roi de coeur
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°205
+******** DEBUT PLI ************
+Player 1 (33 cartes restantes) -> 3 de pique
+Player 3 (19 cartes restantes) -> 2 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°206
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> 10 de coeur
+Player 3 (18 cartes restantes) -> 7 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°207
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> As de trefle
+Player 3 (17 cartes restantes) -> 10 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°208
+******** DEBUT PLI ************
+Player 1 (36 cartes restantes) -> 7 de trefle
+Player 3 (16 cartes restantes) -> 10 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°209
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> 2 de carreau
+Player 3 (17 cartes restantes) -> Valet de carreau
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°210
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> As de carreau
+Player 3 (18 cartes restantes) -> 4 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°211
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> Valet de pique
+Player 3 (17 cartes restantes) -> Roi de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°212
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> Dame de coeur
+Player 3 (18 cartes restantes) -> 6 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°213
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> 2 de coeur
+Player 3 (17 cartes restantes) -> 7 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°214
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> Dame de pique
+Player 3 (18 cartes restantes) -> 4 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°215
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> 6 de trefle
+Player 3 (17 cartes restantes) -> 4 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°216
+******** DEBUT PLI ************
+Player 1 (36 cartes restantes) -> 10 de pique
+Player 3 (16 cartes restantes) -> 2 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°217
+******** DEBUT PLI ************
+Player 1 (37 cartes restantes) -> 7 de carreau
+Player 3 (15 cartes restantes) -> 9 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°218
+******** DEBUT PLI ************
+Player 1 (36 cartes restantes) -> 4 de coeur
+Player 3 (16 cartes restantes) -> Valet de coeur
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°219
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> 9 de coeur
+Player 3 (17 cartes restantes) -> 10 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°220
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> Dame de coeur
+Player 3 (18 cartes restantes) -> Valet de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°221
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> Dame de pique
+Player 3 (17 cartes restantes) -> 7 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°222
+******** DEBUT PLI ************
+Player 1 (36 cartes restantes) -> 6 de trefle
+Player 3 (16 cartes restantes) -> 2 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°223
+******** DEBUT PLI ************
+Player 1 (37 cartes restantes) -> 10 de coeur
+Player 3 (15 cartes restantes) -> 5 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°224
+******** DEBUT PLI ************
+Player 1 (38 cartes restantes) -> 3 de pique
+Player 3 (14 cartes restantes) -> 3 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°225
+******** DEBUT PLI ************
+Player 1 (39 cartes restantes) -> 3 de trefle
+Player 3 (13 cartes restantes) -> 4 de coeur
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°226
+******** DEBUT PLI ************
+Player 1 (38 cartes restantes) -> 8 de coeur
+Player 3 (14 cartes restantes) -> Valet de coeur
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°227
+******** DEBUT PLI ************
+Player 1 (37 cartes restantes) -> Roi de trefle
+Player 3 (15 cartes restantes) -> 8 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°228
+******** DEBUT PLI ************
+Player 1 (38 cartes restantes) -> 7 de pique
+Player 3 (14 cartes restantes) -> Valet de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°229
+******** DEBUT PLI ************
+Player 1 (37 cartes restantes) -> 7 de trefle
+Player 3 (15 cartes restantes) -> Dame de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°230
+******** DEBUT PLI ************
+Player 1 (36 cartes restantes) -> 5 de coeur
+Player 3 (16 cartes restantes) -> Valet de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°231
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> 3 de coeur
+Player 3 (17 cartes restantes) -> 9 de coeur
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°232
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> 10 de coeur
+Player 3 (18 cartes restantes) -> 7 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°233
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> 5 de carreau
+Player 3 (17 cartes restantes) -> 2 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°234
+******** DEBUT PLI ************
+Player 1 (36 cartes restantes) -> 7 de coeur
+Player 3 (16 cartes restantes) -> 2 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°235
+******** DEBUT PLI ************
+Player 1 (37 cartes restantes) -> 2 de trefle
+Player 3 (15 cartes restantes) -> 3 de coeur
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°236
+******** DEBUT PLI ************
+Player 1 (36 cartes restantes) -> 2 de coeur
+Player 3 (16 cartes restantes) -> 9 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°237
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> Valet de trefle
+Player 3 (17 cartes restantes) -> Valet de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°238
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> Dame de carreau
+Player 3 (18 cartes restantes) -> 4 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°239
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> 6 de carreau
+Player 3 (17 cartes restantes) -> 8 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°240
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> As de pique
+Player 3 (18 cartes restantes) -> Valet de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°241
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> 8 de pique
+Player 3 (17 cartes restantes) -> Roi de coeur
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°242
+******** DEBUT PLI ************
+Player 1 (34 cartes restantes) -> 10 de pique
+Player 3 (18 cartes restantes) -> 3 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°243
+******** DEBUT PLI ************
+Player 1 (35 cartes restantes) -> 4 de carreau
+Player 3 (17 cartes restantes) -> 2 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°244
+******** DEBUT PLI ************
+Player 1 (36 cartes restantes) -> 6 de trefle
+Player 3 (16 cartes restantes) -> 2 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°245
+******** DEBUT PLI ************
+Player 1 (37 cartes restantes) -> 10 de pique
+Player 3 (15 cartes restantes) -> 3 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°246
+******** DEBUT PLI ************
+Player 1 (38 cartes restantes) -> 10 de carreau
+Player 3 (14 cartes restantes) -> 5 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°247
+******** DEBUT PLI ************
+Player 1 (39 cartes restantes) -> 2 de pique
+Player 3 (13 cartes restantes) -> 10 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°248
+******** DEBUT PLI ************
+Player 1 (38 cartes restantes) -> Roi de carreau
+Player 3 (14 cartes restantes) -> Valet de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°249
+******** DEBUT PLI ************
+Player 1 (39 cartes restantes) -> 7 de pique
+Player 3 (13 cartes restantes) -> Roi de coeur
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°250
+******** DEBUT PLI ************
+Player 1 (38 cartes restantes) -> 8 de carreau
+Player 3 (14 cartes restantes) -> 9 de coeur
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°251
+******** DEBUT PLI ************
+Player 1 (37 cartes restantes) -> 4 de coeur
+Player 3 (15 cartes restantes) -> Roi de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°252
+******** DEBUT PLI ************
+Player 1 (36 cartes restantes) -> Dame de carreau
+Player 3 (16 cartes restantes) -> 4 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°253
+******** DEBUT PLI ************
+Player 1 (37 cartes restantes) -> Valet de coeur
+Player 3 (15 cartes restantes) -> 8 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°254
+******** DEBUT PLI ************
+Player 1 (38 cartes restantes) -> As de trefle
+Player 3 (14 cartes restantes) -> Roi de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°255
+******** DEBUT PLI ************
+Player 1 (39 cartes restantes) -> 4 de carreau
+Player 3 (13 cartes restantes) -> Valet de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°256
+******** DEBUT PLI ************
+Player 1 (38 cartes restantes) -> 3 de coeur
+Player 3 (14 cartes restantes) -> 9 de coeur
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°257
+******** DEBUT PLI ************
+Player 1 (37 cartes restantes) -> Dame de carreau
+Player 3 (15 cartes restantes) -> 6 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°258
+******** DEBUT PLI ************
+Player 1 (38 cartes restantes) -> As de pique
+Player 3 (14 cartes restantes) -> Roi de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°259
+******** DEBUT PLI ************
+Player 1 (39 cartes restantes) -> As de trefle
+Player 3 (13 cartes restantes) -> 2 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°260
+******** DEBUT PLI ************
+Player 1 (40 cartes restantes) -> 2 de carreau
+Player 3 (12 cartes restantes) -> 9 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°261
+******** DEBUT PLI ************
+Player 1 (39 cartes restantes) -> Roi de trefle
+Player 3 (13 cartes restantes) -> 9 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°262
+******** DEBUT PLI ************
+Player 1 (40 cartes restantes) -> As de carreau
+Player 3 (12 cartes restantes) -> Valet de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°263
+******** DEBUT PLI ************
+Player 1 (41 cartes restantes) -> 4 de trefle
+Player 3 (11 cartes restantes) -> 7 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°264
+******** DEBUT PLI ************
+Player 1 (40 cartes restantes) -> As de pique
+Player 3 (12 cartes restantes) -> 4 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°265
+******** DEBUT PLI ************
+Player 1 (41 cartes restantes) -> 3 de carreau
+Player 3 (11 cartes restantes) -> 2 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°266
+******** DEBUT PLI ************
+Player 1 (42 cartes restantes) -> 9 de coeur
+Player 3 (10 cartes restantes) -> 8 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°267
+******** DEBUT PLI ************
+Player 1 (43 cartes restantes) -> 2 de coeur
+Player 3 (9 cartes restantes) -> 7 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°268
+******** DEBUT PLI ************
+Player 1 (42 cartes restantes) -> 5 de trefle
+Player 3 (10 cartes restantes) -> 4 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°269
+******** DEBUT PLI ************
+Player 1 (43 cartes restantes) -> 4 de coeur
+Player 3 (9 cartes restantes) -> 2 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°270
+******** DEBUT PLI ************
+Player 1 (44 cartes restantes) -> As de coeur
+Player 3 (8 cartes restantes) -> 7 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°271
+******** DEBUT PLI ************
+Player 1 (45 cartes restantes) -> 6 de coeur
+Player 3 (7 cartes restantes) -> 8 de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°272
+******** DEBUT PLI ************
+Player 1 (44 cartes restantes) -> 9 de coeur
+Player 3 (8 cartes restantes) -> 10 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°273
+******** DEBUT PLI ************
+Player 1 (43 cartes restantes) -> 2 de pique
+Player 3 (9 cartes restantes) -> 8 de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°274
+******** DEBUT PLI ************
+Player 1 (42 cartes restantes) -> Valet de carreau
+Player 3 (10 cartes restantes) -> 9 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°275
+******** DEBUT PLI ************
+Player 1 (43 cartes restantes) -> Dame de coeur
+Player 3 (9 cartes restantes) -> 9 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°276
+******** DEBUT PLI ************
+Player 1 (44 cartes restantes) -> 9 de carreau
+Player 3 (8 cartes restantes) -> Dame de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°277
+******** DEBUT PLI ************
+Player 1 (43 cartes restantes) -> As de trefle
+Player 3 (9 cartes restantes) -> 8 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°278
+******** DEBUT PLI ************
+Player 1 (44 cartes restantes) -> Valet de trefle
+Player 3 (8 cartes restantes) -> Dame de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°279
+******** DEBUT PLI ************
+Player 1 (43 cartes restantes) -> 2 de trefle
+Player 3 (9 cartes restantes) -> 7 de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°280
+******** DEBUT PLI ************
+Player 1 (42 cartes restantes) -> 4 de carreau
+Player 3 (10 cartes restantes) -> 10 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°281
+******** DEBUT PLI ************
+Player 1 (41 cartes restantes) -> 9 de trefle
+Player 3 (11 cartes restantes) -> 10 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°282
+******** DEBUT PLI ************
+Player 1 (40 cartes restantes) -> As de carreau
+Player 3 (12 cartes restantes) -> 7 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°283
+******** DEBUT PLI ************
+Player 1 (41 cartes restantes) -> 7 de pique
+Player 3 (11 cartes restantes) -> Dame de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°284
+******** DEBUT PLI ************
+Player 1 (40 cartes restantes) -> 7 de coeur
+Player 3 (12 cartes restantes) -> 6 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°285
+******** DEBUT PLI ************
+Player 1 (41 cartes restantes) -> 5 de carreau
+Player 3 (11 cartes restantes) -> 4 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°286
+******** DEBUT PLI ************
+Player 1 (42 cartes restantes) -> Valet de carreau
+Player 3 (10 cartes restantes) -> 2 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°287
+******** DEBUT PLI ************
+Player 1 (43 cartes restantes) -> As de carreau
+Player 3 (9 cartes restantes) -> 2 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°288
+******** DEBUT PLI ************
+Player 1 (44 cartes restantes) -> 2 de trefle
+Player 3 (8 cartes restantes) -> 3 de coeur
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°289
+******** DEBUT PLI ************
+Player 1 (43 cartes restantes) -> 3 de trefle
+Player 3 (9 cartes restantes) -> Valet de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°290
+******** DEBUT PLI ************
+Player 1 (42 cartes restantes) -> 3 de pique
+Player 3 (10 cartes restantes) -> Dame de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°291
+******** DEBUT PLI ************
+Player 1 (41 cartes restantes) -> 3 de carreau
+Player 3 (11 cartes restantes) -> 7 de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°292
+******** DEBUT PLI ************
+Player 1 (40 cartes restantes) -> As de coeur
+Player 3 (12 cartes restantes) -> 9 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°293
+******** DEBUT PLI ************
+Player 1 (41 cartes restantes) -> Dame de coeur
+Player 3 (11 cartes restantes) -> 3 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°294
+******** DEBUT PLI ************
+Player 1 (42 cartes restantes) -> Valet de coeur
+Player 3 (10 cartes restantes) -> 3 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°295
+******** DEBUT PLI ************
+Player 1 (43 cartes restantes) -> 7 de coeur
+Player 3 (9 cartes restantes) -> 9 de carreau
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°296
+******** DEBUT PLI ************
+Player 1 (42 cartes restantes) -> As de trefle
+Player 3 (10 cartes restantes) -> 3 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°297
+******** DEBUT PLI ************
+Player 1 (43 cartes restantes) -> 4 de carreau
+Player 3 (9 cartes restantes) -> 3 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°298
+******** DEBUT PLI ************
+Player 1 (44 cartes restantes) -> 6 de pique
+Player 3 (8 cartes restantes) -> 7 de carreau
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°299
+******** DEBUT PLI ************
+Player 1 (43 cartes restantes) -> Dame de coeur
+Player 3 (9 cartes restantes) -> 7 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°300
+******** DEBUT PLI ************
+Player 1 (44 cartes restantes) -> 2 de carreau
+Player 3 (8 cartes restantes) -> 6 de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°301
+******** DEBUT PLI ************
+Player 1 (43 cartes restantes) -> 5 de coeur
+Player 3 (9 cartes restantes) -> 2 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°302
+******** DEBUT PLI ************
+Player 1 (44 cartes restantes) -> 9 de trefle
+Player 3 (8 cartes restantes) -> 7 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°303
+******** DEBUT PLI ************
+Player 1 (45 cartes restantes) -> 5 de carreau
+Player 3 (7 cartes restantes) -> 6 de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°304
+******** DEBUT PLI ************
+Player 1 (44 cartes restantes) -> 3 de pique
+Player 3 (8 cartes restantes) -> 5 de carreau
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°305
+******** DEBUT PLI ************
+Player 1 (43 cartes restantes) -> 7 de trefle
+Player 3 (9 cartes restantes) -> 5 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°306
+******** DEBUT PLI ************
+Player 1 (44 cartes restantes) -> 8 de trefle
+Player 3 (8 cartes restantes) -> Dame de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°307
+******** DEBUT PLI ************
+Player 1 (43 cartes restantes) -> 10 de coeur
+Player 3 (9 cartes restantes) -> 8 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°308
+******** DEBUT PLI ************
+Player 1 (44 cartes restantes) -> As de carreau
+Player 3 (8 cartes restantes) -> 3 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°309
+******** DEBUT PLI ************
+Player 1 (45 cartes restantes) -> 2 de pique
+Player 3 (7 cartes restantes) -> Valet de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°310
+******** DEBUT PLI ************
+Player 1 (44 cartes restantes) -> 5 de coeur
+Player 3 (8 cartes restantes) -> Valet de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°311
+******** DEBUT PLI ************
+Player 1 (43 cartes restantes) -> 9 de coeur
+Player 3 (9 cartes restantes) -> 7 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°312
+******** DEBUT PLI ************
+Player 1 (44 cartes restantes) -> Dame de coeur
+Player 3 (8 cartes restantes) -> Valet de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°313
+******** DEBUT PLI ************
+Player 1 (45 cartes restantes) -> Valet de pique
+Player 3 (7 cartes restantes) -> 10 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°314
+******** DEBUT PLI ************
+Player 1 (46 cartes restantes) -> 6 de coeur
+Player 3 (6 cartes restantes) -> 9 de carreau
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°315
+******** DEBUT PLI ************
+Player 1 (45 cartes restantes) -> 3 de trefle
+Player 3 (7 cartes restantes) -> 6 de coeur
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°316
+******** DEBUT PLI ************
+Player 1 (44 cartes restantes) -> 10 de coeur
+Player 3 (8 cartes restantes) -> 6 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°317
+******** DEBUT PLI ************
+Player 1 (45 cartes restantes) -> Valet de trefle
+Player 3 (7 cartes restantes) -> Dame de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°318
+******** DEBUT PLI ************
+Player 1 (44 cartes restantes) -> 6 de trefle
+Player 3 (8 cartes restantes) -> Dame de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°319
+******** DEBUT PLI ************
+Player 1 (43 cartes restantes) -> 4 de carreau
+Player 3 (9 cartes restantes) -> 3 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°320
+******** DEBUT PLI ************
+Player 1 (44 cartes restantes) -> 7 de trefle
+Player 3 (8 cartes restantes) -> 2 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°321
+******** DEBUT PLI ************
+Player 1 (45 cartes restantes) -> 3 de coeur
+Player 3 (7 cartes restantes) -> 2 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°322
+******** DEBUT PLI ************
+Player 1 (46 cartes restantes) -> Valet de carreau
+Player 3 (6 cartes restantes) -> Valet de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°323
+******** DEBUT PLI ************
+Player 1 (45 cartes restantes) -> 8 de coeur
+Player 3 (7 cartes restantes) -> Dame de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°324
+******** DEBUT PLI ************
+Player 1 (44 cartes restantes) -> 5 de pique
+Player 3 (8 cartes restantes) -> Valet de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°325
+******** DEBUT PLI ************
+Player 1 (43 cartes restantes) -> 5 de trefle
+Player 3 (9 cartes restantes) -> 6 de coeur
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°326
+******** DEBUT PLI ************
+Player 1 (42 cartes restantes) -> Roi de trefle
+Player 3 (10 cartes restantes) -> 6 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°327
+******** DEBUT PLI ************
+Player 1 (43 cartes restantes) -> 2 de coeur
+Player 3 (9 cartes restantes) -> 5 de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°328
+******** DEBUT PLI ************
+Player 1 (42 cartes restantes) -> 8 de pique
+Player 3 (10 cartes restantes) -> 5 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°329
+******** DEBUT PLI ************
+Player 1 (43 cartes restantes) -> Dame de pique
+Player 3 (9 cartes restantes) -> 2 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°330
+******** DEBUT PLI ************
+Player 1 (44 cartes restantes) -> 2 de pique
+Player 3 (8 cartes restantes) -> 5 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°331
+******** DEBUT PLI ************
+Player 1 (43 cartes restantes) -> 6 de pique
+Player 3 (9 cartes restantes) -> 9 de carreau
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°332
+******** DEBUT PLI ************
+Player 1 (42 cartes restantes) -> 2 de trefle
+Player 3 (10 cartes restantes) -> 5 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°333
+******** DEBUT PLI ************
+Player 1 (41 cartes restantes) -> 10 de carreau
+Player 3 (11 cartes restantes) -> 2 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°334
+******** DEBUT PLI ************
+Player 1 (42 cartes restantes) -> Dame de coeur
+Player 3 (10 cartes restantes) -> 2 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°335
+******** DEBUT PLI ************
+Player 1 (43 cartes restantes) -> 3 de carreau
+Player 3 (9 cartes restantes) -> 9 de carreau
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°336
+******** DEBUT PLI ************
+Player 1 (42 cartes restantes) -> 5 de carreau
+Player 3 (10 cartes restantes) -> 9 de carreau
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°337
+******** DEBUT PLI ************
+Player 1 (41 cartes restantes) -> 7 de trefle
+Player 3 (11 cartes restantes) -> 5 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°338
+******** DEBUT PLI ************
+Player 1 (42 cartes restantes) -> 4 de pique
+Player 3 (10 cartes restantes) -> Dame de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°339
+******** DEBUT PLI ************
+Player 1 (41 cartes restantes) -> 2 de carreau
+Player 3 (11 cartes restantes) -> Valet de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°340
+******** DEBUT PLI ************
+Player 1 (40 cartes restantes) -> 7 de trefle
+Player 3 (12 cartes restantes) -> 3 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°341
+******** DEBUT PLI ************
+Player 1 (41 cartes restantes) -> 4 de coeur
+Player 3 (11 cartes restantes) -> 9 de carreau
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°342
+******** DEBUT PLI ************
+Player 1 (40 cartes restantes) -> As de pique
+Player 3 (12 cartes restantes) -> 5 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°343
+******** DEBUT PLI ************
+Player 1 (41 cartes restantes) -> Roi de pique
+Player 3 (11 cartes restantes) -> 6 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°344
+******** DEBUT PLI ************
+Player 1 (42 cartes restantes) -> Roi de trefle
+Player 3 (10 cartes restantes) -> 4 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°345
+******** DEBUT PLI ************
+Player 1 (43 cartes restantes) -> 4 de trefle
+Player 3 (9 cartes restantes) -> Dame de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°346
+******** DEBUT PLI ************
+Player 1 (42 cartes restantes) -> As de pique
+Player 3 (10 cartes restantes) -> 4 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°347
+******** DEBUT PLI ************
+Player 1 (43 cartes restantes) -> 3 de trefle
+Player 3 (9 cartes restantes) -> 6 de pique
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°348
+******** DEBUT PLI ************
+Player 1 (42 cartes restantes) -> As de coeur
+Player 3 (10 cartes restantes) -> 3 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°349
+******** DEBUT PLI ************
+Player 1 (43 cartes restantes) -> 8 de pique
+Player 3 (9 cartes restantes) -> 2 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°350
+******** DEBUT PLI ************
+Player 1 (44 cartes restantes) -> 10 de pique
+Player 3 (8 cartes restantes) -> 4 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°351
+******** DEBUT PLI ************
+Player 1 (45 cartes restantes) -> 3 de carreau
+Player 3 (7 cartes restantes) -> Valet de carreau
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°352
+******** DEBUT PLI ************
+Player 1 (44 cartes restantes) -> Valet de coeur
+Player 3 (8 cartes restantes) -> 8 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°353
+******** DEBUT PLI ************
+Player 1 (45 cartes restantes) -> 10 de carreau
+Player 3 (7 cartes restantes) -> Valet de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°354
+******** DEBUT PLI ************
+Player 1 (44 cartes restantes) -> 2 de trefle
+Player 3 (8 cartes restantes) -> 9 de carreau
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°355
+******** DEBUT PLI ************
+Player 1 (43 cartes restantes) -> 7 de pique
+Player 3 (9 cartes restantes) -> 3 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°356
+******** DEBUT PLI ************
+Player 1 (44 cartes restantes) -> 4 de pique
+Player 3 (8 cartes restantes) -> Dame de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°357
+******** DEBUT PLI ************
+Player 1 (43 cartes restantes) -> Dame de coeur
+Player 3 (9 cartes restantes) -> Valet de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°358
+******** DEBUT PLI ************
+Player 1 (44 cartes restantes) -> 3 de carreau
+Player 3 (8 cartes restantes) -> Dame de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°359
+******** DEBUT PLI ************
+Player 1 (43 cartes restantes) -> As de trefle
+Player 3 (9 cartes restantes) -> 4 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°360
+******** DEBUT PLI ************
+Player 1 (44 cartes restantes) -> 9 de coeur
+Player 3 (8 cartes restantes) -> Dame de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°361
+******** DEBUT PLI ************
+Player 1 (43 cartes restantes) -> 4 de carreau
+Player 3 (9 cartes restantes) -> 2 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°362
+******** DEBUT PLI ************
+Player 1 (44 cartes restantes) -> 4 de coeur
+Player 3 (8 cartes restantes) -> 10 de carreau
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°363
+******** DEBUT PLI ************
+Player 1 (43 cartes restantes) -> 6 de trefle
+Player 3 (9 cartes restantes) -> 9 de coeur
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°364
+******** DEBUT PLI ************
+Player 1 (42 cartes restantes) -> 2 de carreau
+Player 3 (10 cartes restantes) -> Valet de carreau
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°365
+******** DEBUT PLI ************
+Player 1 (41 cartes restantes) -> 8 de coeur
+Player 3 (11 cartes restantes) -> 2 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°366
+******** DEBUT PLI ************
+Player 1 (42 cartes restantes) -> Roi de trefle
+Player 3 (10 cartes restantes) -> 9 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°367
+******** DEBUT PLI ************
+Player 1 (43 cartes restantes) -> As de carreau
+Player 3 (9 cartes restantes) -> Valet de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°368
+******** DEBUT PLI ************
+Player 1 (44 cartes restantes) -> Valet de carreau
+Player 3 (8 cartes restantes) -> 5 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°369
+******** DEBUT PLI ************
+Player 1 (45 cartes restantes) -> 4 de pique
+Player 3 (7 cartes restantes) -> 3 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°370
+******** DEBUT PLI ************
+Player 1 (46 cartes restantes) -> 8 de carreau
+Player 3 (6 cartes restantes) -> 4 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°371
+******** DEBUT PLI ************
+Player 1 (47 cartes restantes) -> 5 de carreau
+Player 3 (5 cartes restantes) -> 9 de coeur
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°372
+******** DEBUT PLI ************
+Player 1 (46 cartes restantes) -> Dame de carreau
+Player 3 (6 cartes restantes) -> 9 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°373
+******** DEBUT PLI ************
+Player 1 (47 cartes restantes) -> 5 de pique
+Player 3 (5 cartes restantes) -> 6 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°374
+******** DEBUT PLI ************
+Player 1 (46 cartes restantes) -> 8 de pique
+Player 3 (6 cartes restantes) -> 5 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°375
+******** DEBUT PLI ************
+Player 1 (47 cartes restantes) -> Valet de pique
+Player 3 (5 cartes restantes) -> 6 de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°376
+******** DEBUT PLI ************
+Player 1 (48 cartes restantes) -> 2 de coeur
+Player 3 (4 cartes restantes) -> 10 de carreau
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°377
+******** DEBUT PLI ************
+Player 1 (47 cartes restantes) -> Valet de carreau
+Player 3 (5 cartes restantes) -> 5 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°378
+******** DEBUT PLI ************
+Player 1 (48 cartes restantes) -> As de carreau
+Player 3 (4 cartes restantes) -> 10 de carreau
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°379
+******** DEBUT PLI ************
+Player 1 (49 cartes restantes) -> 9 de trefle
+Player 3 (3 cartes restantes) -> 6 de pique
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°380
+******** DEBUT PLI ************
+Player 1 (50 cartes restantes) -> 8 de trefle
+Player 3 (2 cartes restantes) -> Dame de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°381
+******** DEBUT PLI ************
+Player 1 (49 cartes restantes) -> 8 de coeur
+Player 3 (3 cartes restantes) -> 8 de trefle
+Event : Ajout de carte à Player 3
+********* FIN PLI *************
+                             
+         Pli n°382
+******** DEBUT PLI ************
+Player 1 (48 cartes restantes) -> As de trefle
+Player 3 (4 cartes restantes) -> 8 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°383
+******** DEBUT PLI ************
+Player 1 (49 cartes restantes) -> Roi de pique
+Player 3 (3 cartes restantes) -> Dame de trefle
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°384
+******** DEBUT PLI ************
+Player 1 (50 cartes restantes) -> 9 de pique
+Player 3 (2 cartes restantes) -> 2 de coeur
+Event : Ajout de carte à Player 1
+********* FIN PLI *************
+                             
+         Pli n°385
+******** DEBUT PLI ************
+Player 1 (51 cartes restantes) -> Valet de carreau
+Player 3 (1 cartes restantes) -> 8 de trefle
+Event : Ajout de carte à Player 1
+Event : Player 3 éliminé !
+********* FIN PLI *************
+                             
+Jeu terminé !!
+
+Player 1 a gagné (52 cartes) en 385 plis !

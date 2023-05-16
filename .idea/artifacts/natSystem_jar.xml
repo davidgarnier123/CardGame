@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="natSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/natSystem_jar</output-path>
+    <root id="archive" name="natSystem.jar">
+      <element id="module-output" name="natSystem" />
+    </root>
+  </artifact>
+</component>
